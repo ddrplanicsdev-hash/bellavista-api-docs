@@ -1,5 +1,8 @@
 # 🏗️ Constructions API Documentation
 
+## Overview
+Fetches project details list. Used in page like **search-for-projects**
+
 ## 📌 Base URL
 
 ```
